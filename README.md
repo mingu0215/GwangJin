@@ -16,9 +16,12 @@
 <p>본 프로젝트에는 colab 환경을 바탕으로 실시되었고, shp 형식의 파일을 사용하거나, 결과 시각화를 위해 Qgis 프로그램을 활용하였다.</p>
 
 <h3>4. 데이터</h3>
-<p>combined_rain.csv : 2019년~2023년 동안 매년 6~10월의 각 행정동별 강수량을 합친 파일</p>
-<p>민감도_final_도로복count.csv : 민감도(Sensitivity) 계산을 위한 변수 파일</p>
-<p>적응도.csv : 적응도(Adaptive Capacity) 계산을 위한 변수 파일</p>
-<p>유클리드 거리.csv : 최종 산출된 행정동별 홍수 취약성 지표 파일</p>
-<p>기타 csv 형식의 파일 : 위 세가지 데이터를 만들기 위한 기초 자료</p>
-<p>기타 shp 형식의 파일 : Qgis 시각화를 위한 자료</p>
+<ul>
+  <li>combined_rain.csv : 2019년~2023년 동안 매년 6~10월의 각 행정동별 강수량을 합친 파일</li>
+  <li>민감도_final_도로복count.csv : 민감도(Sensitivity) 계산을 위한 변수 파일</li>
+  <li>적응도.csv : 적응도(Adaptive Capacity) 계산을 위한 변수 파일</li>
+  <li>유클리드 거리.csv : 최종 산출된 행정동별 홍수 취약성 지표 파일</li>
+  <li>기타 csv 형식의 파일 : 위 세가지 데이터를 만들기 위한 기초 자료</li>
+  <li>기타 shp 형식의 파일 : Qgis 시각화를 위한 자료</li>
+</ul>
+
