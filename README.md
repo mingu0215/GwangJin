@@ -22,6 +22,6 @@
   <li>적응도.csv : 적응도(Adaptive Capacity) 계산을 위한 변수 파일</li>
   <li>유클리드 거리.csv : 최종 산출된 행정동별 홍수 취약성 지표 파일</li>
   <li>기타 csv 형식의 파일 : 위 세가지 데이터를 만들기 위한 기초 자료</li>
-  <li>기타 shp 형식의 파일 : QGIS 시각화를 위한 자료</li>
+  <li>기타 shp,tif,tfw 형식의 파일 : QGIS 시각화를 위한 자료</li>
 </ul>
 
