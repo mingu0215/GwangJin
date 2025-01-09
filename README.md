@@ -26,7 +26,7 @@
 </ul>
 
 <h3>5. 분석 방법</h3>
-<img src="https://github.com/mingu0215/GwangJinGu/blob/main/Pipeline.png" alt="분석 파이프라인">
+<img src="https://github.com/mingu0215/GwangJin/blob/main/Pipeline.png" alt="분석 파이프라인">
 
 <h3>**5-1. 기후노출 변수**</h3>
 1. 최대 강우강도<br>
@@ -56,4 +56,4 @@
 6. 구조 안전시설 출동 밀도  
 
 <h3>6. 군집화 결과</h3>
-<img src="https://github.com/mingu0215/GwangJinGu/blob/main/Clustering.png" alt="군집화 결과">
+<img src="https://github.com/mingu0215/GwangJin/blob/main/Clustering.png" alt="군집화 결과">
