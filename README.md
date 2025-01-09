@@ -54,3 +54,6 @@
 4. 행정동별 의료시설 개수<br>  
 5. 소방 인력 현황<br>  
 6. 구조 안전시설 출동 밀도  
+
+<h3>6. 군집화 결과</h3>
+<img src="https://github.com/mingu0215/GwangJinGu/blob/main/Clustering.png" alt="군집화 결과">
